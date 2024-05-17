@@ -1,0 +1,186 @@
+:: StoryTitle
+Final Portfolio
+
+
+:: StoryData
+{
+  "ifid": "5EBD1CFC-887A-4168-8567-35BCE8D7E12F",
+  "format": "SugarCube",
+  "format-version": "2.36.1",
+  "start": "Home",
+  "zoom": 1
+}
+
+
+:: Amaryllis Belladonna {"position":"50,275","size":"100,100"}
+Jersey Lilly 
+
+This plant is beautiful, but can also be used in poisons. 
+
+These sure are beautiful, but be careful when you [[Pick them up ->Flower Shop]]
+
+
+:: Braunsia maximiliani {"position":"325,275","size":"100,100"}
+Braunsia (the fat little triangular succulent)
+
+These would make good friends for some of our [[other plants ->Flower Shop]]
+
+
+:: Cover Letter {"position":"800,225","size":"100,100"}
+<h1> Cover Letter </h1>
+
+<p>
+I went in to this class having a general idea of what I was getting myself into. Having taken a digital media class in the past I was hoping to further my knowledge. While I was familiar with HTML and CSS, I was not at all comfortable with my understanding of it as a whole. But I learned, slowly, how the language operates and how to make some pretty beautiful things with it. But the programming was not my entire purpose for taking this course, as I also find interest in different media I normally would not find on my own. </p>
+<p>
+A piece I was excited to read, and have since requested a copy of, is SOME QUANTUM QUEER BOOK RAAAH which caught my attention immediately because of its physics background but specifically the queer author. I love reading about and seeing queer people in stem, even if I don't often have time to sit down and research them. But the book is something I am waiting on delivery for to read this summer. The wait only due to the fact the library copy is currently lost.  </p>
+<p>
+As for media that sat with me that we <i> did </i> cover, the article "The Undersea Network" which covered the fiberoptic cables that run under the deep sea floor and give us internet. But not just the literal technical sense that inspired me, but the effects that system has on people even today. The towers and the cables, and how they permanently altered communities, and how some never recovered. It feels similar to memorials in how some areas treated their cable docks and towers, while others let it blend into the surrounding land, like just another building. The duality of disruption that led to negative overall feelings to disruption leading to curiosity and development interests me. </p>
+<p>
+This course inspired me in a much more realistic manner than I would have expected. It has led me into planning future presentations that involve more than just a powerpoint. Trying to engage my audience at conferences more than the average person or even attempting more creative ways of doing general academic assignments. In immediate future I plan to encorporate the things I learned in this course into a presentation this summer at ICES, and hopefully continue that in how I write papers in the future. Focusing more on how digital media knowledge can help me in a technical sense and not just for non-academic enjoyment. Making academia more colorful one line of HTML at a time. 
+
+
+:: Favorite_blog_posts {"position":"775,375","size":"100,100"}
+
+<h1>Links and summaries of my favorite blog posts </h1>
+ 
+<form action="https://wordpress.com/post/deeptimeamericas1.wordpress.com/2017" method="get">
+<button type="submit">Post 1</button>
+<button type="submit" formaction="https://wordpress.com/post/deeptimeamericas1.wordpress.com/1668">Post 2</button>
+</form>
+
+If you have read all you need, you can go back [[Home]] 
+
+<p> Post 1 is a post about the colors of the universe, and how the colors relate to human interactions. </p>
+<p> Post 2 is about Trauama and development, relating to the piece "Poetics of Relation". </p>
+
+<p><h2> Post one, Copied: </h2></p>
+Actually inspired by another blog post, called "Unraveling the Beige Universe" I am thinking about the recent reveal of true planet colors in our solar system, and how we use color so often to communicate.
+<br>
+Now this image here is a graphic of NASA's newest photographs of our two lovely blue planets. A pair we have always been taught are these lovely blue hues. And we associate them with cool temperatures and water, but look how... bland... they look now. These brand new images are much higher quality, technically speaking, but don't show us this bright narrative we've followed for so long. 
+<br>
+But the new colors do not mean these planets are bland. While colors may lead us to think this way. It is honestly quite interesting that technology can catch such a subtle color difference. And I, for one, think it is absolutely amazing how the old images show such contrast that we otherwize would have overlooked!
+<br>
+We use color in everyday communications, from in person to writing to virtually. We have whole degrees dedicated to picking the correct color. But perhaps we should reconsider just how those colors impact us?
+
+<p><h2> Post Two, Copied: </h2></p>
+<p> People cope in different ways. My therapist says that I cope in a surprisingly healthy manner, but I am never sure. The quote "Forgetting ourselves any way possible in any kind of speed." from Poetics of Relation really stuck with me. Struggling so hard to find yourself after coming out of something difficult but going too close to the edge with your efforts. Trying so hard to be separated from this person that I forgot myself. Needing to tether my personality to something physical in a way to separate what I knew about myself personally because it was so muddled up with him. </p>
+<br>
+It took months to finally be comfortable by myself again. Having to backtrack in some of my efforts even. Trying to get so fast away and detached in an attempt to "forget" that ,in a way, core aspects of myself became lost and muddy too. 
+<br>
+When it comes to life, the quote "He goes faster and faster because if he stops, if he slows down-he will faIl." makes a lot of sense. Specifically in college, if you don't know everything right away- from classes to a job and to yourself- you feel behind. You wake up and you're already behind. Or you're just scraping by as first in a long race, where you think you can see the end. But everyone feels this way, or at least a lot of us do. 
+<br>
+That way of thinking can utterly destroy a person, unless they find others like themselves. There's another quote from the same excerpt that goes something like "chaos knows no language". This resonates with the feeling of finding others in a similar place as you. It's like finding someone else lost on a trail. Maybe two of you is better at finding help or a way out than just one. Even if you've already found the path out, you bond with others who also got lost on that same trail. Or, maybe, finding another person who escaped a burning building is almost a better way of describing it. 
+<br>
+Reading these excerpts had me thinking not only about the state of the world but myself on a personal level. Trudging forward into the endless unknown, in fear of being like a shark- If I stop I will die. While die is a strong word, it truly is a detail in my brain that sticks with me about if I stop going towards something I wont be doing anything at all.
+<br>
+This section brings connections to some assets of my personal life. With coping after leaving an abusive relationship to figuring out college after dropping from my initially desired major. But the biggest detail being coping.
+<br>
+
+
+
+:: Flower Shop {"position":"175,200","size":"100,100"}
+Welcome to the flower shop. There are many pieces, hopefully some may be to your liking. But I do not promise all of them will be <i>sweet</i>
+<br>
+Go ahead and take your pick, the shelves are fully stocked!
+
+
+[img[images/jerseylilly.jpg][Amaryllis Belladonna]]
+[img[images/bunnysucculent.jpg][Monilaria]]
+[img[raspberry.jpg][Rubus idaeus]]
+[img[images/pink-rose-bush-jpg][Rosaceae]]
+[img[images/Braunsia-maximiliani-1][Braunsia maximiliani]]
+[img[images/bluebies.jpg][Vaccinium corymbosum]]
+[img[images/spray-chrysanthemum-candor][Spray chrysanthemum]]
+
+
+:: Gypsophila {"position":"200,325","size":"100,100"}
+Baby's breath
+
+"While Lichens can sustain humans, people have not returned the favor"
+
+A fantastic choice. Though make sure you leave some [[behind ->Flower Shop]] for others
+
+
+:: Home {"position":"625,250","size":"100,100"}
+<h1>Welcome to My <bold> Portfolio </bold> </h1>
+
+stay a while :) 
+
+<br>
+
+If you want to know where to start, may I suggest my [[Cover Letter]]
+Or perhaps, my [[Favorite_blog_posts]]
+
+There is also the [[Flower Shop]] 
+
+If you're short on time, check out the [[Physical_garden]] project pictures. But I also suggest reading through it's [[Process_statement]] alongside the pictures. 
+
+
+:: Mint {"position":"425,150","size":"100,100"}
+A full explanation of what this garden means. its everywhere
+
+
+:: Monilaria {"position":"200,50","size":"100,100"}
+Bunny Succulent
+
+These little guys are so cute, want to [[Take it home ->Flower Shop]]?
+
+
+:: Physical_garden {"position":"500,375","size":"100,100"}
+Put pics of the physical garden project here!
+
+<p>Want to know the <i> why </i> behind this project? You can read my [[Process_statement]] which explains it! </p>
+
+
+:: Process_statement {"position":"625,375","size":"100,100"}
+<h1> Paper Potted Plant </h1> <br>
+<h2> Process Statement </h2> <br>
+Majority of the media we covered in this course was about growth and recovery. From first hand grief, to generational grief, to research grief, there is growth and recovery, mostly surrounding grief in one way or another. The first image of growth in my mine was plants. The idea of plants stemmed from the media that discussed lichen in the deep sea. I took inspiration from that article to create a flower pot of literature. Filled with a small but colorful paper plant reminiscent of Lavender, or Baby's Breath flowers. (Image attached at the end of this statement)
+<br>
+The concept began as a set of flower pots, and ended as a singular potted plant. Though I believe the idea still comes across nicely.
+<br>
+Each color choice has a distinct reason behind it. The blue used for the flowers was reminiscent of the relation to the water and swamp of other media we read, such as "The Soil Remembers" and the piece we watched at the start of the semester about the 0% waste community. The blue flower buds can be manually opened to reveal quotes from the piece "The Language Of Animacy" which is part of "Braiding Sweetgrass". Each flower "bud" has a pair of quotes, specifically put together to compliment one another.
+<br>
+Not every flower has a leaf, but those who do have it there with intent. Some quotes deserved their own square, and thus became leaves on the potted plant. These quotes I deemed particularly important to the understanding of this project. The paper thickness diferences was also intentional. I had originally chose pink carstock as the base flower, but decided on my construction paper blue instead. This is to simulate the delicacy of flower petals using the blue, and leaving the sturdy pink and green for more important standalone quotes.
+<br>
+Following with the colors. The pink quotes, there being only 4 of them, were intentionally chosen as possible standalone as well. They almost do not fit with the blue flowers, but compliment them nicely if you stop and think about the context. They are strong and interesting, and can hold their own.
+<br>
+Much like human growth and development, plants need care and patience to grow. All quotes in this potted plant revolve around understanding and knowledge. The fading of some, the sturdiness of others, and the love put into keeping something alive. Plants and culture are similar in this way, they need a bit of care to keep going strong. 
+
+<p> If you would like to see images of this paper plant, head over to my [[Physical_garden]] page to see the photographs! </p>
+If this is all you want to read, you can go back [[Home]] as well.
+
+
+:: Rosaceae {"position":"300,150","size":"100,100"}
+Roses. simple and sweet. right?
+
+If you've found your pick, [[Put back on the shelf ->Flower Shop]]
+
+
+:: Rubus idaeus {"position":"375,25","size":"100,100"}
+Raspberries
+
+"Food was meant to be shared"
+
+You can pick a few, just make sure to [[Leave some ->Flower Shop]] for others
+
+
+:: Spray chrysanthemum {"position":"50,150","size":"100,100"}
+Mums
+
+Not quite to your liking? you can find some [[Other flora ->Flower Shop]] on another shelf
+
+
+:: Vaccinium corymbosum {"position":"50,400","size":"100,100"}
+Blueberries!
+
+"Politeness was simply assumed"
+
+Berries are ment to be eaten! just make sure to [[leave a few ->Flower Shop]]
+
+
+:: StoryStylesheet [stylesheet]
+body {
+ background: darkgreen 
+}
+@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa|Cormorant+Infant');  
